@@ -1,22 +1,39 @@
 # Summary
 
 * [概述](README.md)
-  * [简介](a-a/chan-pin-jian-jie.md)
   * [功能模块](a-a/chan-pin-mo-kuai.md)
   * [调用流程](a-a/diao-yong-liu-cheng.md)
-* [开始使用](README.md)
+* [配置管理](README.md)
   * [座席管理](zuo-xi-guan-li.md)
     * [新建座席](zi-yuan-pei-zhi-lei/chuang-jian-zuo-xi.md)
+    * [修改座席](zi-yuan-pei-zhi-lei/xiu-gai-zuo-xi.md)
+    * 删除座席
   * [技能组管理](ji-neng-zu-guan-li.md)
-  * 队列管理
-  * [IVR流程配置](ivrliu-cheng-pei-zhi.md)
-  * [工作台初始化](gong-zuo-tai-chu-shi-hua.md)
-  * 接听热线来电
-  * 接听多媒体来电
-  * 热线外呼
-  * 获取队列实时监控数据
-  * 获取坐席组实时监控数据
-  * 获取坐席实时监控数据
-* [API接口](wen-dang-biao-ti.md)
+    * 新增技能组
+    * 删除技能组
+* [座席交互](gong-zuo-tai-chu-shi-hua.md)
+  * [签入](gong-zuo-tai-chu-shi-hua/qian-ru.md)
+  * 签出
+  * 就绪
+  * 小休
+  * 振铃
+  * 应答
+  * 报工号
+  * 保持
+  * 取回
+  * [单步转接](gong-zuo-tai-chu-shi-hua/dan-bu-zhuan-jie.md)
+  * 咨询转接
+  * 三方会议
+  * 外呼
+  * [转满意度](gong-zuo-tai-chu-shi-hua/bao-gong-hao.md)
+  * 挂机
+* [运营管理](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju.md)
+  * 技能组日报表
+  * 座席日报表
+  * 技能组时段报表
+  * [实时监控数据](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju/shi-shi-jian-kong-shu-ju.md)
+    * 队列实时监控
+    * 座席组实时监控
+    * 座席监控
 * [SDK及demo案例](sdkji-demo-an-li.md)
 
