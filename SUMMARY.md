@@ -2,6 +2,10 @@
 
 * [概述](README.md)
 * [功能模块](chan-pin-mo-kuai.md)
+  * [配置管理](chan-pin-mo-kuai/pei-zhi-guan-li.md)
+  * 多渠道交互
+  * [运营监控](chan-pin-mo-kuai/yun-ying-jian-kong.md)
+  * 运营报表
 * [调用流程](diao-yong-liu-cheng.md)
 * [配置管理](readme-1/README.md)
   * [座席管理](readme-1/zuo-xi-guan-li/README.md)
