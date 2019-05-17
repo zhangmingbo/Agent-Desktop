@@ -1,9 +1,6 @@
+# Summary
 
----
-
-# 全媒体座席工作台
-
-* [产品概述](a-a.md)
+* [产品概述](README.md)
   * [产品简介](a-a/chan-pin-jian-jie.md)
   * [产品模块](a-a/chan-pin-mo-kuai.md)
   * [调用流程](a-a/diao-yong-liu-cheng.md)
@@ -21,6 +18,5 @@
   * 获取坐席实时监控数据
 * [API接口](wen-dang-biao-ti.md)
 * [SDK及demo案例](sdkji-demo-an-li.md)
-
-
+* [全媒体座席工作台](quan-mei-ti-zuo-xi-gong-zuo-tai.md)
 
