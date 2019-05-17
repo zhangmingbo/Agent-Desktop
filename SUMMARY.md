@@ -5,7 +5,7 @@
 * [调用流程](diao-yong-liu-cheng.md)
 * [配置管理](readme-1/README.md)
   * [座席管理](readme-1/zuo-xi-guan-li/README.md)
-    * [新建座席](readme-1/zuo-xi-guan-li/chuang-jian-zuo-xi.md)
+    * [新建座席](readme-1/zuo-xi-guan-li/xin-jian-agent.md)
     * [修改座席](readme-1/zuo-xi-guan-li/xiu-gai-zuo-xi.md)
     * [删除座席](readme-1/zuo-xi-guan-li/shan-chu-zuo-xi.md)
   * [座席组管理](readme-1/ji-neng-zu-guan-li/README.md)
