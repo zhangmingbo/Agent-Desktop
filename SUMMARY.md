@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [概述](README.md)
 * [功能模块](chan-pin-mo-kuai.md)
@@ -8,7 +8,7 @@
     * [新建座席](readme-1/zuo-xi-guan-li/chuang-jian-zuo-xi.md)
     * [修改座席](readme-1/zuo-xi-guan-li/xiu-gai-zuo-xi.md)
     * [删除座席](readme-1/zuo-xi-guan-li/shan-chu-zuo-xi.md)
-  * [技能组管理](readme-1/ji-neng-zu-guan-li/README.md)
+  * [座席组管理](readme-1/ji-neng-zu-guan-li/README.md)
     * [新增技能组](readme-1/ji-neng-zu-guan-li/xin-zeng-ji-neng-zu.md)
     * [删除技能组](readme-1/ji-neng-zu-guan-li/shan-chu-ji-neng-zu.md)
 * [座席交互](gong-zuo-tai-chu-shi-hua/README.md)

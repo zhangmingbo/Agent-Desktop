@@ -72,6 +72,6 @@ Cake successfully retrieved.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-# 案例
+# demo
 
 
