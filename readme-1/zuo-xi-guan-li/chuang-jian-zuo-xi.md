@@ -2,7 +2,7 @@
 description: 创建一个新员工
 ---
 
-# 创建座席
+# 新建座席
 
 {% api-method method="post" host="https://api.cakes.com" path="/v1/platform/config/agent/add\_agent" %}
 {% api-method-summary %}
@@ -67,12 +67,9 @@ Cake successfully retrieved.
   "retCode":1,   //返回码，具体见附录A
   "msg": "",     //返回消息内容
 }
-
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

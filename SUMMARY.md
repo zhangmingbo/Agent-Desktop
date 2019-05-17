@@ -1,39 +1,39 @@
-# Summary
+# Table of contents
 
 * [概述](README.md)
-  * [功能模块](a-a/chan-pin-mo-kuai.md)
-  * [调用流程](a-a/diao-yong-liu-cheng.md)
-* [配置管理](README.md)
-  * [座席管理](zuo-xi-guan-li.md)
-    * [新建座席](zi-yuan-pei-zhi-lei/chuang-jian-zuo-xi.md)
-    * [修改座席](zi-yuan-pei-zhi-lei/xiu-gai-zuo-xi.md)
-    * 删除座席
-  * [技能组管理](ji-neng-zu-guan-li.md)
-    * 新增技能组
-    * 删除技能组
-* [座席交互](gong-zuo-tai-chu-shi-hua.md)
+* [功能模块](chan-pin-mo-kuai.md)
+* [调用流程](diao-yong-liu-cheng.md)
+* [配置管理](readme-1/README.md)
+  * [座席管理](readme-1/zuo-xi-guan-li/README.md)
+    * [新建座席](readme-1/zuo-xi-guan-li/chuang-jian-zuo-xi.md)
+    * [修改座席](readme-1/zuo-xi-guan-li/xiu-gai-zuo-xi.md)
+    * [删除座席](readme-1/zuo-xi-guan-li/shan-chu-zuo-xi.md)
+  * [技能组管理](readme-1/ji-neng-zu-guan-li/README.md)
+    * [新增技能组](readme-1/ji-neng-zu-guan-li/xin-zeng-ji-neng-zu.md)
+    * [删除技能组](readme-1/ji-neng-zu-guan-li/shan-chu-ji-neng-zu.md)
+* [座席交互](gong-zuo-tai-chu-shi-hua/README.md)
   * [签入](gong-zuo-tai-chu-shi-hua/qian-ru.md)
-  * 签出
-  * 就绪
-  * 小休
-  * 振铃
-  * 应答
-  * 报工号
-  * 保持
-  * 取回
+  * [签出](gong-zuo-tai-chu-shi-hua/qian-chu.md)
+  * [就绪](gong-zuo-tai-chu-shi-hua/jiu-xu.md)
+  * [小休](gong-zuo-tai-chu-shi-hua/xiao-xiu.md)
+  * [振铃](gong-zuo-tai-chu-shi-hua/zhen-ling.md)
+  * [应答](gong-zuo-tai-chu-shi-hua/ying-da.md)
+  * [报工号](gong-zuo-tai-chu-shi-hua/bao-gong-hao.md)
+  * [保持](gong-zuo-tai-chu-shi-hua/bao-chi.md)
+  * [取回](gong-zuo-tai-chu-shi-hua/qu-hui.md)
   * [单步转接](gong-zuo-tai-chu-shi-hua/dan-bu-zhuan-jie.md)
-  * 咨询转接
-  * 三方会议
-  * 外呼
-  * [转满意度](gong-zuo-tai-chu-shi-hua/bao-gong-hao.md)
-  * 挂机
-* [运营管理](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju.md)
-  * 技能组日报表
-  * 座席日报表
-  * 技能组时段报表
-  * [实时监控数据](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju/shi-shi-jian-kong-shu-ju.md)
-    * 队列实时监控
-    * 座席组实时监控
-    * 座席监控
+  * [咨询转接](gong-zuo-tai-chu-shi-hua/zi-xun-zhuan-jie.md)
+  * [三方会议](gong-zuo-tai-chu-shi-hua/san-fang-hui-yi.md)
+  * [外呼](gong-zuo-tai-chu-shi-hua/wai-hu.md)
+  * [转满意度](gong-zuo-tai-chu-shi-hua/bao-gong-hao-1.md)
+  * [挂机](gong-zuo-tai-chu-shi-hua/gua-ji.md)
+* [运营管理](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju/README.md)
+  * [技能组日报表](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju/ji-neng-zu-ri-bao-biao.md)
+  * [座席日报表](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju/zuo-xi-ri-bao-biao.md)
+  * [技能组时段报表](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju/ji-neng-zu-shi-duan-bao-biao.md)
+  * [实时监控数据](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju/shi-shi-jian-kong-shu-ju/README.md)
+    * [队列实时监控](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju/shi-shi-jian-kong-shu-ju/dui-lie-shi-shi-jian-kong.md)
+    * [座席组实时监控](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju/shi-shi-jian-kong-shu-ju/zuo-xi-zu-shi-shi-jian-kong.md)
+    * [座席监控](huo-qu-dui-lie-shi-shi-jian-kong-shu-ju/shi-shi-jian-kong-shu-ju/zuo-xi-jian-kong.md)
 * [SDK下载](sdkji-demo-an-li.md)
 
