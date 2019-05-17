@@ -6,6 +6,7 @@
   * [调用流程](a-a/diao-yong-liu-cheng.md)
 * [开始使用](README.md)
   * [座席管理](zuo-xi-guan-li.md)
+    * [新建座席](pei-zhi-lei-jie-kou.md)
   * [技能组管理](ji-neng-zu-guan-li.md)
   * 队列管理
   * [IVR流程配置](ivrliu-cheng-pei-zhi.md)
