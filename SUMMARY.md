@@ -1,8 +1,8 @@
 # Summary
 
-* [产品概述](README.md)
-  * [产品简介](a-a/chan-pin-jian-jie.md)
-  * [产品模块](a-a/chan-pin-mo-kuai.md)
+* [概述](README.md)
+  * [简介](a-a/chan-pin-jian-jie.md)
+  * [功能模块](a-a/chan-pin-mo-kuai.md)
   * [调用流程](a-a/diao-yong-liu-cheng.md)
 * [开始使用](README.md)
   * [座席管理](zuo-xi-guan-li.md)
