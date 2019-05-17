@@ -35,5 +35,5 @@
     * 队列实时监控
     * 座席组实时监控
     * 座席监控
-* [SDK及demo案例](sdkji-demo-an-li.md)
+* [SDK下载](sdkji-demo-an-li.md)
 
