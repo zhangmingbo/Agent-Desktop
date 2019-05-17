@@ -6,7 +6,7 @@
   * [调用流程](a-a/diao-yong-liu-cheng.md)
 * [开始使用](README.md)
   * [座席管理](zuo-xi-guan-li.md)
-    * [新建座席](pei-zhi-lei-jie-kou.md)
+    * [新建座席](zi-yuan-pei-zhi-lei/chuang-jian-zuo-xi.md)
   * [技能组管理](ji-neng-zu-guan-li.md)
   * 队列管理
   * [IVR流程配置](ivrliu-cheng-pei-zhi.md)
@@ -19,5 +19,4 @@
   * 获取坐席实时监控数据
 * [API接口](wen-dang-biao-ti.md)
 * [SDK及demo案例](sdkji-demo-an-li.md)
-* [全媒体座席工作台](quan-mei-ti-zuo-xi-gong-zuo-tai.md)
 
